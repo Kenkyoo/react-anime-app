@@ -1,0 +1,27 @@
+#root {
+  position: relative;
+  min-height: 100vh;
+}
+
+#content-wrap {
+  padding-bottom: 4.5rem;    /* Footer height */
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  margin-top: 2rem;
+}
+
+.input-search {
+  width: 100%;
+  max-width: 90%;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
